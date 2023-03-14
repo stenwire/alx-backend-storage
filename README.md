@@ -1,0 +1,1 @@
+# You found an easter egg [click here](./0x02-redis_basic/psyche.md)
